@@ -1,5 +1,5 @@
 body{
-    background-color: #CCCCCC;
+    background-color: #cccccc;
 }
 
 #banner{
@@ -19,4 +19,8 @@ p {
 
 em strong{
     color: red;
+}
+
+.itens{
+    font-style: italic;
 }
